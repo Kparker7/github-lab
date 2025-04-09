@@ -1,0 +1,7 @@
+# Reflection Questions
+# What is the difference between git add and git commit?
+# The difference between git add and git commit is git add gets your file ready to be saved by git, where as git commit saves the file with the message into the projects history.
+# Why do we use git push?
+# We use git push to send our saved work from our computer to github online. This keeps your projects backed up & other people can see it.
+# Can you clone someone else’s public repository? How would you do that?
+# Yes, if a project on github is public, you can copy it to your computer. You would do this by going to their github page. Clicking the green code button and copy link. Then lastly opening the terminal git clone.
